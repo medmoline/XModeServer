@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VO8JnV7cS+AQVCVnElxdme/vb/dcXA+idB2olkaqQ7Q=",
+  "Source": "XModeServer.Host",
+  "BasePath": "_content/XModeServer.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
